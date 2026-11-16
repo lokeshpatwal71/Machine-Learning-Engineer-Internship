@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+venv/
+.venv/
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+# Secrets (none are used in this project)
+.env
